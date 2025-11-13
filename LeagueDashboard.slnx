@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Aplication/Aplication.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Infraestructure/Infraestructure.csproj" />
+  <Project Path="LeagueDashboard/LeagueDashboard.csproj" />
+  <Project Path="LeagueDashboardAPI/LeagueDashboardAPI.csproj" />
+  <Project Path="Workers/Workers.csproj" />
+</Solution>
