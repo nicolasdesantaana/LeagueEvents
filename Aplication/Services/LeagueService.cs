@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Aplication.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Aplication.Services
 {
-    internal class LeagueService
+    public class LeagueService : ILeagueService
     {
     }
 }
